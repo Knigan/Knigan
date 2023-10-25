@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Knigan
 - 👀 I’m interested in programming
-- 🌱 I have some C++ projects and I’m currently learning Python
+- 🌱 I have some C++ projects and I’m currently learning Django
 
 <!---
 Knigan/Knigan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
