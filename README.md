@@ -1,5 +1,7 @@
 # Khapisov Malik Khapisovich
 ### AI Engineer
+- E-mail: malik.khapisov@gmail.com
+- Telegram: t.me/mkhapisov
 # Education
 ## Bauman Moscow State Technical University
 ### Bachelor's degree: September 2020 - June 2024
