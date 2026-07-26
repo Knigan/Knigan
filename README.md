@@ -1,5 +1,5 @@
 # Khapisov Malik Khapisovich
-### AI Engineer
+### ML Engineer
 - E-mail: malik.khapisov@gmail.com
 - Telegram: t.me/mkhapisov
 - Linkedin: www.linkedin.com/in/malik-khapisov-080060425
