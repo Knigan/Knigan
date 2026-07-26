@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Knigan
-- 👀 I’m interested in programming
-- 🌱 I have some C++ and Python projects and I’m currently learning ML & DL
+- 👋 Hi, I’m @mkhapisov
+- 👀 I’m interested in machine learning
+- 🌱 I have some ML and C++ projects
 
 <!---
-Knigan/Knigan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mkhapisov/mkhapisov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
